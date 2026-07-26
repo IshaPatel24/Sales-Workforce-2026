@@ -1,0 +1,17 @@
+{
+    "job_name": "2026-07-27__00-23-06-map",
+    "verifier": {
+        "disable": true
+    },
+    "tasks": [
+        {
+            "path": "/private/var/folders/zw/jgzmvhl97_q0lk0r85v2bq4h0000gn/T/harbor-exec-map-tasks-tpvo3l8m/task-0001"
+        },
+        {
+            "path": "/private/var/folders/zw/jgzmvhl97_q0lk0r85v2bq4h0000gn/T/harbor-exec-map-tasks-tpvo3l8m/task-0002"
+        },
+        {
+            "path": "/private/var/folders/zw/jgzmvhl97_q0lk0r85v2bq4h0000gn/T/harbor-exec-map-tasks-tpvo3l8m/task-0003"
+        }
+    ]
+}
